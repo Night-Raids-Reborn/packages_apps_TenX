@@ -47,4 +47,9 @@
 
     </PreferenceCategory>
 
+    <com.tenx.support.preferences.SystemSettingSwitchPreference
+        android:key="navigation_bar_inverse"
+        android:title="@string/navigation_bar_inverse_title"
+        android:defaultValue="false" />
+
 </PreferenceScreen>
