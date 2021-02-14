@@ -1403,4 +1403,8 @@
 
     <!-- navbar invers -->
     <string name="navigation_bar_inverse_title">Inverse layout</string>
+
+    <!-- Notification headers -->
+    <string name="notification_headers_title">Notification headers</string>
+    <string name="notification_headers_summary">Group notifications under headers in the notification shade</string>
 </resources>
